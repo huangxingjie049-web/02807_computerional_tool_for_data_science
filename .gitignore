@@ -1,0 +1,9 @@
+# DTW distance matrices: large (~26 MB each), regenerated automatically by the notebook
+Data/*.npy
+
+# Office temporary / lock files
+~$*
+
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
